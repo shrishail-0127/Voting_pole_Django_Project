@@ -2,9 +2,13 @@ li a {
     color: green;
 }
 
-body{
+h1{
+
+    color: white;
+}
+/* body{
 
     background-color: black;
-}
+} */
     /* background : white url("images/image.png")
 } */
